@@ -1,5 +1,4 @@
-# Hi their, I’m Surajit Kumar Sen 👋 
-
+# Hi their, I’m Surajit Kumar Sen 👋  
 I'm a Test Engineer
 
 - 👀 I’m interested in Automation Testing
@@ -11,7 +10,7 @@ I'm a Test Engineer
 <img align="left" alt="Python Code" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" />
 <img align="left" alt="Java Code" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" />
 <img align="left" alt="Ubuntu Code" width="26px" src="https://selenium.dev/images/selenium_logo_square_green.png" />
-<img align="left" alt="Github Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/github-icon.png" />
+<a href="https://github.com/SurajitKSen"> <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /> </a>
 <img align="left" alt="Ubuntu Code" width="26px" src="https://icons.iconarchive.com/icons/martz90/circle/128/ubuntu-icon.png" />
 
 <br />
@@ -19,5 +18,3 @@ I'm a Test Engineer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajitKSen)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Thanks
