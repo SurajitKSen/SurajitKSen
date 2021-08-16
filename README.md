@@ -8,26 +8,15 @@
 - ⚡ Anything that bores you should be automated 🔥🔥
 
 ### Languages and Tools:
-<img align="left" alt="Java Code" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" />
+<img align="left" alt="Python Code" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" />
 <img align="left" alt="Java Code" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" />
-<img align="left" alt="Java Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/github-icon.png" />
+<img align="left" alt="Ubuntu Code" width="26px" src="https://selenium.dev/images/selenium_logo_square_green.png" />
+<img align="left" alt="Github Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/github-icon.png" />
+<img align="left" alt="Ubuntu Code" width="26px" src="https://icons.iconarchive.com/icons/martz90/circle/128/ubuntu-icon.png" />
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Activity</summary>
-    <!---
-    SurajitKSen/SurajitKSen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    You can click the Preview link to take a look at your changes.
-    --->
 
-<!--START_SECTION:activity-->
-      1. 🗣 Commented on 
-      2. ❗️ Closed issue 
-      3. ❌ Closed PR 
-      4. 🗣 Commented on 
-      5. 🎉 Merged PR
-<!--END_SECTION:activity-->
 
-</details>
+Thanks
