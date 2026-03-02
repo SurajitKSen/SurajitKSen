@@ -29,7 +29,9 @@ I am passionate about building robust automation frameworks and improving softwa
 
 ## 📊 GitHub Stats
 
-![Surajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajitKSen&show_icons=true&theme=tokyonight)
+![A summary chart of SurajitKSen's GitHub activity and stats](https://github-readme-stats.vercel.app/api?username=SurajitKSen&show_icons=true&theme=tokyonight&count_private=true)
+
+<sub>If the stats above do not load, you can view them at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).</sub>
 
 ---
 
