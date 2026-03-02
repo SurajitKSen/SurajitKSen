@@ -1,26 +1,46 @@
-# Hi their, I’m Surajit Kumar Sen 👋  
-I'm a Test Engineer
+# Hi there, I'm Surajit Kumar Sen 👋  
+### 🧪 Test Engineer | Automation Enthusiast
 
-- 👀 I’m interested in Automation Testing and every possible things
-- 🌱 I’m currently learning everything :sweat_smile: :sweat_smile:
-- 📫 How to reach me <a href="mailto:surajitsen.iter2011@gmail.com"><img alt="gmail-icon" width="18px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/> </a>
-- ⚡ Anything that bores you should be automated 🔥🔥
+I am passionate about building robust automation frameworks and improving software quality through smart testing strategies.
 
-## Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Spark" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Selenium" width="26px" src="https://cdn.jsdelivr.net" />
-<a href="https://github.com"> 
-  <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net" /> 
-</a>
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net" />
+- 👀 I’m interested in Automation Testing, CI/CD, and scalable test frameworks  
+- 🌱 Currently learning advanced test architecture & cloud-based automation  
+- ⚡ Anything that bores you should be automated 🔥  
+- 📫 Reach me at: **surajitsen.iter2011@gmail.com**
 
-<br /><br />
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajitKSen)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Languages and Tools
 
+<p align="left">
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Apache Spark" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <img alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Surajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajitKSen&show_icons=true&theme=tokyonight)
+
+---
+
+## 💡 What I Do
+
+- Design and maintain Automation Test Frameworks  
+- API Testing & UI Testing  
+- CI/CD integration with Jenkins  
+- Cross-platform test execution (Linux/Ubuntu environments)  
+- Improve software quality through automation-first mindset  
+
+---
+
+⭐️ Always open to collaboration on Automation & Testing projects!
